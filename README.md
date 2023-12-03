@@ -1,2 +1,2 @@
 # my-node
-node app
+this repository is for the node application 
